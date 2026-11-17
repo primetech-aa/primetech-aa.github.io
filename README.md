@@ -1,2 +1,2 @@
-# primetech-aa.github.io
+# primetech-com.pl
 Company website repository
